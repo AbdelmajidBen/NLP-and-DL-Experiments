@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project involves the collection and analysis of text data from the web, focusing on Formula 1 and information about AI Oracle/AWS text generation (based on GPT-2) and Amazon reviews using BERT. The project is divided into three parts:
+This project involves the collection and analysis of text data from the web, focusing on Formula 1 and information about AI from [Oracle/AWS] text generation (based on GPT-2) and Amazon reviews using BERT. The project is divided into three parts:
 
 1. **Data Collection and Preparation**: Scraping text data related to Formula 1 and AI Oracle/AWS using BeautifulSoup.
 2. **Text Generation**: Using a fine-tuned GPT-2 model to generate stories based on the data.
